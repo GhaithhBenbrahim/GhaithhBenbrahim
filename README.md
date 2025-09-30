@@ -24,10 +24,8 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 <img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
 <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJPAyrjz46qzrUPgiYMUXFmLgKP0oTViw3tQjetPdmJg5PZfIp-OoL07DV_5Z5Pa3ow8&usqp=CAU" alt="STM32Cube"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
-<img width="50" height="50" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T842A2PA3667PT17X34Y45D1038885179W18245H6942PA3669PT17X53Y1D1038885214W14496H29717/views/1,width=500,height=500,appearanceId=2,backgroundColor=ffffff/yocto-project-10th-anniversary-official-dark-tote-bag.jpg" alt="Yocto"/>
 <img width="50" height="60" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
 <img width="70" height="45" src="https://cdn.chipkin.com/assets/uploads/2018/Oct/Can_logo_26-13-54-46.png" alt="CAN"/>
-<img width="60" height="50" src="https://phytools.com/cdn/shop/products/Canopen_logo_square_237d20ee-9dc9-444b-809f-2cdbae78fbd1.png?v=1539116314" alt="CANopen"/>
 <br>
 <img width="45" height="45" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Matlab"/>
