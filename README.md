@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 <p align="center">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="C"/>
 <img width="50" height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"/>
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Assembly-language-logo.svg" alt="Assembly"/>
+<img width="50" height="50" src="https://github.com/GhaithhBenbrahim/grafana-assets/issues/1#issue-3469483006" alt="Assembly"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 </p>
 
