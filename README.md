@@ -48,7 +48,3 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 <a href="mailto:ghaith.benbrahim@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Embedded%20Linux%20%7C%20Zephyr%20%7C%20Rust-blue?style=for-the-badge&logo=learning&logoColor=white" alt="Currently Learning" />
-  <img src="https://img.shields.io/badge/Skills-Growing-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Skills Growing" />
-</p>
