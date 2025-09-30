@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 ## Get to know Me
 | 🌱 Currently Learning | 👯 Looking to Collaborate | 📫 How to Reach Me |
 |----------------------|------------------------|-----------------|
-| Embedded Linux, Zephyr, Rust | Embedded Systems Projects & Internships | rayen.bouafif@insat.ucar.tn |
+| Embedded Linux, Zephyr, Rust | Embedded Systems Projects & Internships | ghaith.benbrahim@insat.ucar.tn |
 
 ---
 
