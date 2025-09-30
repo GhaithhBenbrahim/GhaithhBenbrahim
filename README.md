@@ -1,28 +1,24 @@
 # 👋 Hi, I'm Ghaith Ben Brahim
-🛠️ Embedded Systems Engineer | Robotics Enthusiast | Firmware Developer
+Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, specializing in **Instrumentation and Intelligent Systems**. I have a passion for developing **real-time embedded systems, robotics, and IoT solutions**.  
+- 🛠️ Embedded Systems Engineer | Robotics Enthusiast | Firmware Developer  
 
-Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, specializing in **Instrumentation and Intelligent Systems**. I have a passion for developing **real-time embedded systems, robotics, and IoT solutions**.
-
----
-
-## Get to know Me
-| 🌱 Currently Learning | 👯 Looking to Collaborate | 📫 How to Reach Me |
-|----------------------|------------------------|-----------------|
-| Embedded Linux, Zephyr, Rust | Embedded Systems Projects & Internships | ghaith.benbrahim@insat.ucar.tn |
+- 🌱 **Currently Learning:** Embedded Linux, Zephyr, Rust  
+- 👯 **Looking to Collaborate:** Embedded Systems Projects & Internships  
+- 📫 **How to Reach Me:** ghaith.benbrahim@insat.ucar.tn
 
 ---
 
-<h3 align="center">Programming Languages</h3>
-
+## Programming Languages
 <p align="center">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="C"/>
 <img width="50" height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"/>
-<img width="50" height="50" src="[[https://upload.wikimedia.org/wikipedia/commons/4/4e/Assembly-language-logo.svg](https://github.com/topics/assembly-language?l=javascript&o=desc&s=forks)](https://github.com/topics/assembly-language?l=javascript&o=desc&s=forks)" alt="Assembly"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Assembly-language-logo.svg" alt="Assembly"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
+---
 
+## Tools & Platforms
 <p align="center">
 <img width="50" height="50" src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32"/>
 <img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
@@ -41,18 +37,18 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 ---
 
 ## 📈 GitHub Stats
-
 ![Ghaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhaithhBenbrahim&show_icons=true&theme=radical)
 
 ---
 
-<h3 align="center">Get In Touch</h3>
-
+## Get In Touch
 <p align="center">
 <a href="https://www.linkedin.com/in/ghaith-ben-brahim" target="_blank" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/GhaithhBenbrahim" target="_blank" rel="nofollow"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:ghaith.benbrahim@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-Embedded%20Linux%20%7C%20Zephyr%20%7C%20Rust-blue?style=for-the-badge&logo=learning&logoColor=white" alt="Currently Learning" />
+  <img src="https://img.shields.io/badge/Skills-Growing-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Skills Growing" />
+</p>
