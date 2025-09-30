@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 ## Get to know Me
 | 🌱 Currently Learning | 👯 Looking to Collaborate | 📫 How to Reach Me |
 |----------------------|------------------------|-----------------|
-| Embedded Linux, Zephyr, Rust | Embedded Systems Projects & Internships | ghaith.benbrahim@insat.ucar.tn |
+| Embedded Linux, Zephyr, Rust | Embedded Systems Projects & Internships | rayen.bouafif@insat.ucar.tn |
 
 ---
 
@@ -38,15 +38,24 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink"/>
 </p>
 
+---
+
+## 📈 GitHub Stats
+
+![Ghaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhaithhBenbrahim&show_icons=true&theme=radical)
+
+---
+
 <h3 align="center">Get In Touch</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ghaith-ben-brahim" target="_blank" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/GhaithhBenbrahim" target="_blank" rel="nofollow"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:rayen.bouafif@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ghaith.benbrahim@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Mastering+STM32+and+RTOS;Currently+Learning+Zephyr+and+Embedded+Linux;Exploring+Rust" alt="Typing SVG" />
-</a>
+  <img src="https://img.shields.io/badge/Currently_Learning-Embedded%20Linux%20%7C%20Zephyr%20%7C%20Rust-blue?style=for-the-badge&logo=learning&logoColor=white" alt="Currently Learning" />
+  <img src="https://img.shields.io/badge/Skills-Growing-orange?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Skills Growing" />
 </p>
+
