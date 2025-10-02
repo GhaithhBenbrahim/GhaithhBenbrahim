@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 <img width="50" height="60" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
 <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJPAyrjz46qzrUPgiYMUXFmLgKP0oTViw3tQjetPdmJg5PZfIp-OoL07DV_5Z5Pa3ow8&usqp=CAU" alt="STM32Cube"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
-<img width="50" height="60" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
 <img width="70" height="45" src="https://cdn.chipkin.com/assets/uploads/2018/Oct/Can_logo_26-13-54-46.png" alt="CAN"/>
 <br>
 <img width="45" height="45" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
