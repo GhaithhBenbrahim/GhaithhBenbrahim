@@ -1,10 +1,18 @@
 # 👋 Hi, I'm Ghaith Ben Brahim
 Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, specializing in **Instrumentation and Intelligent Systems**. I have a passion for developing **real-time embedded systems, robotics, and IoT solutions**.  
 - 🛠️ Embedded Systems Engineer | Robotics Enthusiast | Firmware Developer  
-
 - 🌱 **Currently Learning:** Embedded Linux, Zephyr, Rust  
 - 👯 **Looking to Collaborate:** Embedded Systems Projects & Internships  
 - 📫 **How to Reach Me:** ghaith.benbrahim@insat.ucar.tn
+
+---
+
+## Get In Touch
+<p align="center">
+<a href="https://www.linkedin.com/in/ghaith-ben-brahim" target="_blank" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/GhaithhBenbrahim" target="_blank" rel="nofollow"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ghaith.benbrahim@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -39,10 +47,4 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 
 ---
 
-## Get In Touch
-<p align="center">
-<a href="https://www.linkedin.com/in/ghaith-ben-brahim" target="_blank" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/GhaithhBenbrahim" target="_blank" rel="nofollow"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:ghaith.benbrahim@insat.ucar.tn" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
 
