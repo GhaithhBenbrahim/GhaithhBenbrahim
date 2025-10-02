@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 
 ## Tools & Platforms
 <p align="center">
-<img width="50" height="50" src="https://github.com/user-attachments/assets/ab9cab60-d687-4a99-a6b9-f3ac380f2c13" alt="STM32"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/ba2e4a18-2390-4b4a-9ac9-eeb75813c106" alt="STM32"/>
 <img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
 <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJPAyrjz46qzrUPgiYMUXFmLgKP0oTViw3tQjetPdmJg5PZfIp-OoL07DV_5Z5Pa3ow8&usqp=CAU" alt="STM32Cube"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
