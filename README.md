@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 
 ## Programming Languages
 <p align="center">
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png" alt="C"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/3be6c156-6cf4-4a45-b998-dbf3ed4a1903" alt="STM32"/>
 <img width="50" height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/9b89d3cc-a9e2-4e19-b559-9009a8b5a777" alt="Assembly"/>
 <img width="50" height="50" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python"/>
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, speci
 ## Tools & Platforms
 <p align="center">
   <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/STMicroelectronics_Logo.svg/1200px-STMicroelectronics_Logo.svg.png" alt="STM32"/>
-<img width="50" height="50" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
+<img width="50" height="60" src="https://pbs.twimg.com/profile_images/773245254979903488/yB0xE3NR_400x400.jpg" alt="ESP32"/>
 <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJPAyrjz46qzrUPgiYMUXFmLgKP0oTViw3tQjetPdmJg5PZfIp-OoL07DV_5Z5Pa3ow8&usqp=CAU" alt="STM32Cube"/>
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="Linux"/>
 <img width="50" height="60" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
