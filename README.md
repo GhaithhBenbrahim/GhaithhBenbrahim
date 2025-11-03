@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ghaith Ben Brahim
-Welcome to my GitHub profile! I'm a 4th-year engineering student at INSAT, specializing in **Instrumentation and Intelligent Systems**. I have a passion for developing **real-time embedded systems, robotics, and IoT solutions**.  
+Welcome to my GitHub profile! I'm a 5th-year engineering student at INSAT, specializing in **Instrumentation and Intelligent Systems**. I have a passion for developing **real-time embedded systems, robotics, and IoT solutions**.  
 - 🛠️ Embedded Systems Engineer | Robotics Enthusiast | Firmware Developer  
 - 🌱 **Currently Learning:** Embedded Linux, Zephyr, Rust  
 - 👯 **Looking to Collaborate:** Embedded Systems Projects & Internships  
