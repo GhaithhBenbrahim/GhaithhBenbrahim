@@ -42,8 +42,7 @@ Welcome to my GitHub profile! I'm a 5th-year engineering student at INSAT, speci
 ---
 
 ## 📈 GitHub Stats
-![Ghaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhaithhBenbrahim&show_icons=true&theme=radical)
-![Ghaith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhaithhBenbrahim&show_icons=true&theme=radical)
+![Ghaith's GitHub Stats](https://github-readme-stats-git-master-org.vercel.app/api?username=GhaithhBenbrahim&show_icons=true&theme=radical)
 
 
 ---
