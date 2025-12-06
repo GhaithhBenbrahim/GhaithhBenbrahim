@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a 5th-year engineering student at INSAT, speci
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="RPi"/>
 <img width="70" height="45" src="https://cdn.chipkin.com/assets/uploads/2018/Oct/Can_logo_26-13-54-46.png" alt="CAN"/>
 <br>
-<img width="45" height="45" src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="Sldrks"/>
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="Matlab"/>
 <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="Simulink"/>
 </p>
